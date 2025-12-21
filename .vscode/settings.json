@@ -1,0 +1,17 @@
+{
+  "python.defaultInterpreterPath": "/usr/bin/python3",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.pytest_cache": true,
+    "**/.ipynb_checkpoints": true
+  },
+
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "jupyter.askForKernelRestart": false
+}
