@@ -1,13 +1,15 @@
 # Fraud Detection for E-commerce and Bank Transactions
 
-##  Project Overview
+## Project Overview
+
 This project focuses on building robust fraud detection models for both e-commerce transactions and bank credit card transactions. The goal is to accurately identify fraudulent activity while balancing the trade-off between security and user experience.
 
 The project is developed as part of a KAIM Academy data science assignment and follows industry-standard practices for data analysis, machine learning, and model explainability.
 
 ---
 
-##  Objectives
+## Objectives
+
 - Analyze and preprocess transaction data
 - Engineer meaningful features for fraud detection
 - Handle highly imbalanced datasets appropriately
