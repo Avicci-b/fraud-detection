@@ -37,3 +37,13 @@ fraud-detection/
 ├── README.md               # Project documentation
 └── .gitignore
 
+## Model Training (Task 2)
+
+- Baseline model: Logistic Regression
+- Ensemble model: Random Forest with GridSearchCV tuning
+- Evaluation metrics: AUC-PR, F1-score
+- Cross-validation: Stratified K-Fold
+- Model persistence using joblib
+
+Core evaluation logic is modularized under `src/`, with basic unit tests under `tests/`.
+```
